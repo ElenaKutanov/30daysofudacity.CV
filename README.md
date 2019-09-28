@@ -17,6 +17,7 @@ Day 3. 27.09.2019
 I would like to encourage @HelenaB and @Jess to keep going! 👩‍💻
 ---------------------------------
 Day 4. 28.09.2019
-- lesson 1.2, 1.4 completed. ✔️
+- lesson 1.2, 1.4 completed ✔️
+- meetup with mentor ✔️
 I would like to encourage @ElenaG and @EileenH to keep going! 👩‍💻
 ---------------------------------
