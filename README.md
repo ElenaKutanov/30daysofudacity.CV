@@ -16,3 +16,7 @@ Day 3. 27.09.2019
 - lesson 1.4.13 - 1.4.20 completed. ✔️
 I would like to encourage @HelenaB and @Jess to keep going! 👩‍💻
 ---------------------------------
+Day 4. 28.09.2019
+- lesson 1.2, 1.4 completed. ✔️
+I would like to encourage @ElenaG and @EileenH to keep going! 👩‍💻
+---------------------------------
