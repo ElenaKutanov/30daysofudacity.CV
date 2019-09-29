@@ -22,6 +22,6 @@ Day 4. 28.09.2019
 I would like to encourage @ElenaG and @EileenH to keep going! 👩‍💻
 ---------------------------------
 Day 5. 29.09.2019
-- lesson 1.5.1, 1.5.12 completed ✔️
+- lesson 1.5.1 - 1.5.12 completed ✔️
 I would like to encourage @ElenaG and @KonstantinosK to keep going!
 ---------------------------------
