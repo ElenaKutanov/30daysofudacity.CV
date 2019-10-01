@@ -25,7 +25,11 @@ Day 5. 29.09.2019
 - lesson 1.5.1 - 1.5.12 completed ✔️
 I would like to encourage @ElenaG and @KonstantinosK to keep going!
 ---------------------------------
-Day 6. CVND 30.09.2019
+Day 6. 30.09.2019
 - lesson 1.5, 1.6 completed ✔️
 I would like to encourage @ElenaG , @KonstantinosK , @HelenaB  @labibaR  @FridaR  @Juan CarlosK  to keep going!
+---------------------------------
+Day 7. 01.10.2019
+- lesson 1.7.1 - 1.7.11 completed ✔️
+I would like to encourage @ElenaG , @KonstantinosK, @FridaR  @Juan CarlosK, @Mohamed ChoukriB, @Siddharth S. to keep going!
 ---------------------------------
