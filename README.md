@@ -33,3 +33,7 @@ Day 7. 01.10.2019
 - lesson 1.7.1 - 1.7.11 completed ✔️
 I would like to encourage @ElenaG , @KonstantinosK, @FridaR  @Juan CarlosK, @Mohamed ChoukriB, @Siddharth S. to keep going!
 ---------------------------------
+Day 8. 02.10.2019
+- lesson 1.7.12 - 1.7.13, 1.7.14(50%) completed ✔️
+I would like to encourage @ElenaG , @KonstantinosK , @Mohamed ChoukriB, @Yemissi K to keep going!
+---------------------------------
