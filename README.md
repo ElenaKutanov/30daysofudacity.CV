@@ -41,3 +41,7 @@ Day 9. 03.10.2019
 - lesson 1.7, 1.8.1 - 1.8.7 completed ✔️
 I would like to encourage @ElenaG , @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB to keep going!
 ---------------------------------
+Day 10. 04.10.2019
+- lesson 1.8.8 - 1.8.25 completed ✔️
+I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, Ankit V. to keep going!
+---------------------------------
