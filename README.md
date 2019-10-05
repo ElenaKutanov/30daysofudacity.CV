@@ -52,6 +52,7 @@ Day 11. 05.10.2019
 -- 1. Load and Visualize Data completed  ✔️ 
 
 -- 2. Define the Network Architecture in progress 🚧 
-
 I would like to encourage @ElenaG , @KonstantinosK , @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV  to keep going!
+---------------------------------
+
 ---------------------------------
