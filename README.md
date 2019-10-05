@@ -43,5 +43,12 @@ I would like to encourage @ElenaG , @KonstantinosK, @HelenaB, @FridaR, @Mohamed 
 ---------------------------------
 Day 10. 04.10.2019
 - lesson 1.8.8 - 1.8.25 completed ✔️
-I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, Ankit V. to keep going!
+I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
+---------------------------------
+Day 11. 05.10.2019
+- lesson 1.8 completed  ✔️
+- Project 1: Facial Keypoint Detection 
+-- 1. Load and Visualize Data completed  ✔️
+-- 2. Define the Network Architecture in progress 🚧
+I would like to encourage @ElenaG , @KonstantinosK , @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV  to keep going!
 ---------------------------------
