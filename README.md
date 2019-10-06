@@ -52,3 +52,9 @@ Day 11. 05.10.2019
   - 2. Define the Network Architecture in progress 🚧 
 I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
 ---------------------------------
+Day 12. 06.10.2019
+- lesson 3.1 - 3.2 completed  ✔️ 
+- Project 1: Facial Keypoint Detection
+  - 2. Define the Network Architecture still in progress 🚧 
+I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
+---------------------------------
