@@ -58,3 +58,11 @@ Day 12. 06.10.2019
   - 2. Define the Network Architecture still in progress 🚧 
 I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
 ---------------------------------
+Day 13. 07.10.2019
+- Project 1: Facial Keypoint Detection
+  - 2. Define the Network Architecture completed ✔️
+  - 3. Facial Keypoint Detection, Complete Pipeline completed ✔️ 
+  - 4. Fun with Keypoints completed ✔️ 
+  - 5. Zip Your Project Files and Submit in progress 🚧 
+I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
+---------------------------------
