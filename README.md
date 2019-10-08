@@ -66,3 +66,9 @@ Day 13. 07.10.2019
   - 5. Zip Your Project Files and Submit in progress 🚧 
 I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
 ---------------------------------
+Day 14. 08.10.2019
+- Project 1: Facial Keypoint Detection successfully submitted and reviewed
+  - 5. Zip Your Project Files and Submit in progress completed ✔️  
+ - lesson 1.9 completed  ✔️ 
+I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
+---------------------------------
