@@ -68,7 +68,7 @@ I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed C
 ---------------------------------
 Day 14. 08.10.2019
 - Project 1: Facial Keypoint Detection successfully submitted and reviewed
-  - 5. Zip Your Project Files and Submit in progress completed ✔️  
+  - 5. Zip Your Project Files and Submit completed ✔️  
  - lesson 1.9 completed  ✔️ 
 I would like to encourage @ElenaG, @KonstantinosK, @HelenaB, @FridaR, @Mohamed ChoukriB, @Ankit V. to keep going!
 ---------------------------------
