@@ -76,4 +76,9 @@ Day 15. 09.10.2019
 - Project 2: Optimize Your GitHub Profile submitted.
 I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
 ---------------------------------
+Day 16. 10.10.2019
+- lesson 1.9 (GitHub) completed  ✔️ 
+- lesson 3.3.1 - 3.3.3 completed  ✔️ 
+I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
+---------------------------------
 
