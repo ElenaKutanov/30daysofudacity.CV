@@ -81,4 +81,10 @@ Day 16. 10.10.2019
 - lesson 3.3.1 - 3.3.3 completed  ✔️ 
 I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
 ---------------------------------
+Day 17. 11.10.2019
+- lesson 3.3.4 - 3.3.7 completed  ✔️ 
+- Video "DotA 2 bot by Open AI" https://youtu.be/l92J1UvHf6M
+- Video "Visually-Indicated Sounds" https://youtu.be/0FW99AQmMc8
+I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
+---------------------------------
 
