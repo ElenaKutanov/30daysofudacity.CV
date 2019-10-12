@@ -87,4 +87,8 @@ Day 17. 11.10.2019
 - Video "Visually-Indicated Sounds" https://youtu.be/0FW99AQmMc8
 I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
 ---------------------------------
+Day 18. 12.10.2019
+- worked with review comments for Project 1: Facial Keypoint Detection 
+I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
+---------------------------------
 
