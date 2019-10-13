@@ -92,12 +92,13 @@ Day 18. 12.10.2019
 I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
 ---------------------------------
 Day 19. 13.10.2019
+
 Worked with Cascade classifier for custom object detection:
-- Rapid Object Detection using a Boosted Cascade of Simple Features
-https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
-- Creating a Cascade of Haar-Like Classifiers: Step by Step
-https://www.cs.auckland.ac.nz/~m.rezaei/Tutorials/Creating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf
-I would like to encourage @ElenaG, @EileenH, @KonstantinosK, @HelenaB , @FridaR , @Mohamed ChoukriB , @AnkitV to keep going!
+
+- Read "Rapid Object Detection using a Boosted Cascade of Simple Features" https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+- Done "Creating a Cascade of Haar-Like Classifiers: Step by Step" https://www.cs.auckland.ac.nz/~m.rezaei/Tutorials/Creating_a_Cascade_of_Haar-Like_Classifiers_Step_by_Step.pdf
+
+I would like to encourage @ElenaG, @HelenaB, @FridaR to keep going!
 
 ---------------------------------
 
