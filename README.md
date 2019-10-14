@@ -101,4 +101,8 @@ Worked with Cascade classifier for custom object detection:
 I would like to encourage @ElenaG, @HelenaB, @FridaR to keep going!
 
 ---------------------------------
+Day 20. 14.10.2019
+- lesson 3.3.8 - 3.3.12 completed  ✔️
+I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, Andrew B. to keep going!
+---------------------------------
 
