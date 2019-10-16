@@ -113,4 +113,3 @@ Day 22. 16.10.2019
 - lesson 3.3.17 - 3.3.22 completed  ✔️
 I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, Laura T. to keep going!
 ---------------------------------
-I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, Laura T. to keep going!
