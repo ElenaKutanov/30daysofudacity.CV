@@ -117,3 +117,8 @@ Day 23. 17.10.2019
 - lesson 3.3.23 - 3.3.26, 3.4.1 completed  ✔️
 I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @Laura T. to keep going!
 ---------------------------------
+Day 24. CVND 18.10.2019
+
+- learned more about error analysis ✔️
+I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT to keep going!
+---------------------------------
