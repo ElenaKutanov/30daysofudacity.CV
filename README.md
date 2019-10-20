@@ -127,3 +127,8 @@ Day 25. 19.10.2019
 - tried to use YOLO by custom object detection  ✔️
 I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT to keep going!
 ---------------------------------
+Day 26. 20.10.2019
+
+- still working on YOLO custom object detection.
+I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT to keep going!
+---------------------------------
