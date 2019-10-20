@@ -130,5 +130,6 @@ I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed C
 Day 26. 20.10.2019
 
 - still working on YOLO custom object detection.
-I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT to keep going!
+
+  I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
 ---------------------------------
