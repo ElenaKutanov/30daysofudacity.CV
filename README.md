@@ -133,3 +133,9 @@ Day 26. 20.10.2019
 
   I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
 ---------------------------------
+Day 27. 22.10.2019
+- lesson 3.4.2 - 10 completed  ✔️
+- visited Facebook iD8 in Berlin (an event for developers and businesses)  ✔️
+p.s.: Forgot to post my update yesterday. Whole evening I was in working on YOLO custom object detection.
+
+  I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
