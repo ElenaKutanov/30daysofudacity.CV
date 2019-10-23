@@ -141,3 +141,9 @@ p.s.: Forgot to post my update yesterday. Whole evening I was in working on YOLO
   I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
 
 ---------------------------------
+Day 28. 23.10.2019
+- lesson 3.4.11 - 3.4.14 completed  ✔️
+
+  I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
+
+---------------------------------
