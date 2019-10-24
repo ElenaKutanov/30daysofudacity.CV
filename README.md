@@ -147,3 +147,9 @@ Day 28. 23.10.2019
   I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
 
 ---------------------------------
+Day 29. 24.10.2019
+- worked on notebook 3.4.15
+
+  I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
+
+---------------------------------
