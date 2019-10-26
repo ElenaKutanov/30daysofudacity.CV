@@ -160,3 +160,10 @@ Day 30. 25.10.2019
   I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK,  @fuzhanR, @TzuhsinC to keep going!
 
 ---------------------------------
+Day 1 (31). CVND 26.10.2019
+
+- lesson 3.6.1 - 3.6.10 completed ✔️
+
+I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK, @fuzhanR, @TzuhsinC, @AhmedT to keep going!
+
+---------------------------------
