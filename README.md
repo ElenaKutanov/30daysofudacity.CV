@@ -174,3 +174,10 @@ Day 2 (32). 27.10.2019
 I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK, @fuzhanR, @TzuhsinC, @AhmedT to keep going!
 
 ---------------------------------
+Day 3 (33). 28.10.2019
+
+- lesson 3.7 completed ✔️
+
+I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK, @fuzhanR, @TzuhsinC, @AhmedT to keep going!
+
+---------------------------------
