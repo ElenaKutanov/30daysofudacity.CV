@@ -181,3 +181,13 @@ Day 3 (33). 28.10.2019
 I would like to encourage @ElenaG, @HelenaB, @KonstantinosK, @FridaR, @Mohamed ChoukriB, @AnkitV, @AndrewB, @LauraT , @Juan CarlosK, @fuzhanR, @TzuhsinC, @AhmedT to keep going!
 
 ---------------------------------
+Day 4 (34). 29.10.2019
+
+- 0_Dataset.ipynb completed ✔️
+- working on 1_Preliminaries.ipynb
+
+I would like to encourage @ElenaG  and @Mohamed ChoukriB to keep going!
+
+---------------------------------
+
+
