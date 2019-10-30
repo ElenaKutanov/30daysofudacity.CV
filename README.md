@@ -189,5 +189,12 @@ Day 4 (34). 29.10.2019
 I would like to encourage @ElenaG  and @Mohamed ChoukriB to keep going!
 
 ---------------------------------
+Day 5 (35). 30.10.2019
+
+- working on Project: Image Captioning
+
+I would like to encourage @AnkitV and @Juan CarlosK to keep going!
+
+---------------------------------
 
 
