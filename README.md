@@ -203,5 +203,12 @@ Day 6 (36). 31.10.2019
 I would like to encourage @TzuhsinC, @AhmedT to keep going!
 
 ---------------------------------
+Day 7 (37). 01.11.2019
+
+- worked on own project with custom object detection.
+
+I would like to encourage @ElenaG, @HelenaB to keep going!
+
+---------------------------------
 
 
