@@ -210,5 +210,12 @@ Day 7 (37). 01.11.2019
 I would like to encourage @ElenaG, @HelenaB to keep going!
 
 ---------------------------------
+Day 8 (38). 02.11.2019
+
+- worked on own project with custom object detection. New method for data preparation.
+
+I would like to encourage @ElenaG, @HelenaB to keep going!
+
+---------------------------------
 
 
