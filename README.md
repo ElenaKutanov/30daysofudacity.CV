@@ -218,4 +218,12 @@ I would like to encourage @ElenaG, @HelenaB to keep going!
 
 ---------------------------------
 
+Day 9 (39). 03.11.2019
+
+- own project with custom object detection completed ✔️
+
+I would like to encourage @KonstantinosK, @FridaR to keep going!
+
+---------------------------------
+
 
