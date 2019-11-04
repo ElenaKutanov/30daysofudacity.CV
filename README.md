@@ -226,7 +226,7 @@ I would like to encourage @KonstantinosK, @FridaR to keep going!
 ---------------------------------
 Day 10 (40). 04.11.2019
 
-- learning more about sequence models, still working with 1_Preliminaries.ipynb
+- learning more about sequence models, still working on 1_Preliminaries.ipynb
 
 I would like to encourage @Mohamed ChoukriB, @AnkitV to keep going!
 
