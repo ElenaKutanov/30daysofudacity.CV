@@ -217,12 +217,18 @@ Day 8 (38). 02.11.2019
 I would like to encourage @ElenaG, @HelenaB to keep going!
 
 ---------------------------------
-
 Day 9 (39). 03.11.2019
 
 - own project with custom object detection completed ✔️
 
 I would like to encourage @KonstantinosK, @FridaR to keep going!
+
+---------------------------------
+Day 10 (40). 04.11.2019
+
+- learning more about sequence models, still working with 1_Preliminaries.ipynb
+
+I would like to encourage @Mohamed ChoukriB, @AnkitV to keep going!
 
 ---------------------------------
 
