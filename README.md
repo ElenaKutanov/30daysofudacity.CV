@@ -231,5 +231,10 @@ Day 10 (40). 04.11.2019
 I would like to encourage @Mohamed ChoukriB, @AnkitV to keep going!
 
 ---------------------------------
+Day 11 (41). 05.11.2019
 
+- learned more about GRU, LSTM, BRNN.
 
+I would like to encourage @ElenaG, @AhmedT to keep going!
+
+---------------------------------
