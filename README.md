@@ -238,3 +238,10 @@ Today I’m practicing GRU, LSTM, BRNN #PracticeMakesPerfect
 I would like to encourage @ElenaG, @AhmedT to keep going!
 
 ---------------------------------
+Day 12 (42). 06.11.2019
+
+Today I’m practicing RNN and completed RNN quiz #PracticeMakesPerfect
+
+I would like to encourage @KonstantinosK, @FridaR to keep going!
+
+---------------------------------
