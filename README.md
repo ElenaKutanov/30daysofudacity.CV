@@ -245,3 +245,10 @@ Today I’m practicing RNN and completed RNN quiz #PracticeMakesPerfect
 I would like to encourage @KonstantinosK, @FridaR to keep going!
 
 ---------------------------------
+Day 13 (43). 07.11.2019
+
+Today I’m practicing forward propagation of a recurrent neural network from scratch. #PracticeMakesPerfect
+
+I would like to encourage @TzuhsinC, @AhmedT to keep going!
+
+---------------------------------
