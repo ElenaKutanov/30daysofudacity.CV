@@ -252,3 +252,10 @@ Today I’m practicing forward propagation of a recurrent neural network from sc
 I would like to encourage @TzuhsinC, @AhmedT to keep going!
 
 ---------------------------------
+Day 14 (44). 08.11.2019
+
+Today I’m practicing Character-Level Language Modeling. #PracticeMakesPerfect
+
+I would like to encourage @ElenaG, @HelenaB to keep going!
+
+---------------------------------
