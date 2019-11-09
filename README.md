@@ -259,7 +259,7 @@ Today I’m practicing Character-Level Language Modeling. #PracticeMakesPerfect
 I would like to encourage @ElenaG, @HelenaB to keep going!
 
 ---------------------------------
-Day 15 (45). 08.11.2019
+Day 15 (45). 09.11.2019
 
 Today I’m practicing LSTM to generate music. #PracticeMakesPerfect
 
